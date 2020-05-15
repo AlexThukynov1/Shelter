@@ -1,2 +1,2 @@
 # Shelter
- Layout compiled using web package
+ Layout compiled using Webpack
